@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 44" width="200" height="44" fill="none">
+  <!-- ABHE Modern Geometric Outdoor Wordmark -->
+  <style>
+    .brand-text {
+      font-family: 'Inter', -apple-system, 'Montserrat', sans-serif;
+      font-weight: 800;
+      font-size: 28px;
+      letter-spacing: 0.18em;
+      fill: #FFFFFF;
+    }
+    .brand-sub {
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      font-size: 8.5px;
+      letter-spacing: 0.42em;
+      fill: #D4B896;
+    }
+  </style>
+  <text x="0" y="26" class="brand-text">ABHE</text>
+  <text x="2" y="38" class="brand-sub">FOOTWEAR</text>
+</svg>
